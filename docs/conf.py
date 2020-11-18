@@ -58,3 +58,8 @@ html_static_path = ['_static']
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 html_logo = "images/cs-logo.png"
+
+# added this to make the standard Read the Docs layout
+#   not be constrained in the width
+def setup(app):
+    app.add_stylesheet('my_theme.css')
