@@ -30,12 +30,3 @@ A PDF version of this textbook can be downloaded `here <https://readthedocs.org/
    holding-data/index
    using-oop/index
    creating-objects/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
