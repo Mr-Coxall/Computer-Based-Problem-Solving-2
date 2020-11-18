@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Computer Based Problem Solving'
-copyright = '2020, Mr. Coxall'
-author = 'Mr. Coxall'
+copyright = '2020, Patrick Coxall'
+author = 'Patrick Coxall'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
